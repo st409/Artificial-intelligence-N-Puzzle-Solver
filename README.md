@@ -1,5 +1,4 @@
 # Artificial-intelligence-N-Puzzle-Solver
-# Intelligent N-Puzzle Solver: A Strategic Algorithmic Approach
 
 ## Project Essence
 Developed as a comprehensive Artificial Intelligence project, this N-Puzzle solver represents an advanced computational solution to the classic tile-sliding puzzle challenge. The application demonstrates sophisticated search algorithm implementations designed to systematically resolve grid-based arrangement problems.
