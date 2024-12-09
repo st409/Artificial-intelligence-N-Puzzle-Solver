@@ -26,12 +26,12 @@ The project encompasses a robust suite of search strategies:
 
 ### Execution Protocol
 ```bash
-python Tiles.py num1 num2 num3 num4 num5 num6 num7 num8 num9
+python Tiles.py "num1 num2 num3 num4 num5 num6 num7 num8 num9"
 ```
 
 ### Execution Example
 ```bash
-python Tiles.py 1 2 3 4 5 6 7 8 0
+python Tiles.py "1 2 3 4 5 6 7 8 0"
 ```
 
 ## Computational Insights
